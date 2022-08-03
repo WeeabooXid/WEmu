@@ -1,2 +1,2 @@
 # WEmu
-Run Windows Software on Android 
+Run Windows Apps on Android 
